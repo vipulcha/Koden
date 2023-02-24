@@ -10,19 +10,13 @@ import Codeforces from './components/Codeforces/Codeforces';
 import Codechef from './components/Codechef/Codechef';
 import Sheets from './components/Sheets/Sheets';
 import Login from './components/Login/Login';
-<<<<<<< HEAD
 import { AppProvider } from './context';
-=======
->>>>>>> refs/remotes/origin/main
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-<<<<<<< HEAD
   <AppProvider>
-=======
     
->>>>>>> refs/remotes/origin/main
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />}></Route>
@@ -33,10 +27,7 @@ root.render(
         <Route path="/Login" element={<Login/>}/>
       </Routes>
     </BrowserRouter>
-<<<<<<< HEAD
     </AppProvider>
-=======
->>>>>>> refs/remotes/origin/main
   </React.StrictMode>
 );
 

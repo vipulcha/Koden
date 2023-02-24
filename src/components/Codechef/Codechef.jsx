@@ -6,8 +6,4 @@ export default function Codechef() {
       lol ye koi ni karta
     </div>
   )
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> refs/remotes/origin/main

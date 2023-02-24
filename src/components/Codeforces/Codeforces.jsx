@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React,{useEffect} from 'react'
 import './Codeforces.css'
 import { useGlobalContext } from '../../context';
@@ -27,14 +26,3 @@ const Codeforces=()=>{
 }
 
 export default Codeforces;
-=======
-import React from 'react'
-
-export default function Codeforces() {
-  return (
-    <div>
-      cp crow
-    </div>
-  )
-}
->>>>>>> refs/remotes/origin/main
