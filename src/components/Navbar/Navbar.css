@@ -26,12 +26,14 @@
 }
 
 span{
+    
     width: 200px;
     height: 30px;
     background: black;
     padding-left: 0px;
     padding-top: 5px;
     font-size: 18px;
+<<<<<<< HEAD
     color:white;
 }
 
@@ -39,3 +41,16 @@ span{
     color: white;
     text-decoration: none;
 }
+=======
+}
+a:link{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color:grey;
+}
+a:visited{
+    color:white;
+}
+>>>>>>> refs/remotes/origin/main
