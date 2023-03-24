@@ -33,6 +33,12 @@ span{
     padding-left: 0px;
     padding-top: 5px;
     font-size: 18px;
+    color:white;
+}
+
+.navlink{
+    color: white;
+    text-decoration: none;
 }
 a:link{
     color:white;
